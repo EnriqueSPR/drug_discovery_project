@@ -83,7 +83,8 @@ SVR and RFR were fined tunned using GridSearchCV. RFR perfrom the best with the 
  
  # 6. Conclussions:
  
-** 6.1 PubChem features.**
+**6.1 PubChem features.**
+
 We observe that, based on our model, some of the **PubChem features** that seem to be **most important** in determining the activity of a drug are: 143, 18, 133, 171, 176 and 48.
 
 It would be interesting to investigate this further and try to associate this with the activity of the drup, which could sed some ligth into possible modes of action, and development of more effective drugs.
