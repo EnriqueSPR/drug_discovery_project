@@ -12,6 +12,8 @@ This movement that try to raise awareness of men's health issues, such as prosta
 
  ## Code and Resources Used:
 
+[**See full project code here.**](https://nbviewer.jupyter.org/github/EnriqueSPR/drug_discovery_project/blob/main/drug_discovery.ipynb)
+
 **Python Version**: 3.7
 
 **Packages**: pandas, numpy, chembl_webresource_client, scipy, os, glob, datetime, rdkit, sklearn, matplotlib, seaborn and plotly.
