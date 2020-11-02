@@ -97,7 +97,7 @@ We also see that:
 * **Glutamate carboxipeptidase II (GCPII)**
 * **Mitogen-activated protein kinase 8 (MAP3K8)**
 
- <img src="figures/predicted_all_drug_groups.png" width="800"/> 
+ <img src="figures/drug_activity_prediction.png" width="500"/> 
  
 They have the largest activities among all molecular targets. Hence they may be the **best targets to develop drugs for treating cancer**.
 
